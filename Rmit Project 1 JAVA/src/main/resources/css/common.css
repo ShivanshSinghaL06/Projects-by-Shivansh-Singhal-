@@ -1,0 +1,156 @@
+/* External CSS style file */
+
+* {
+   box-sizing: border-box;
+}
+
+body {
+   font-family: Arial;
+   padding: 10px;
+   background: #b8cff3;
+}
+
+/* Header (div) formatting */
+.header {
+   padding: 10px;
+   text-align: center;
+   background-color: #c9e4de;
+   color: #000000;
+}
+
+.header h1 {
+   font-size: 50px;
+}
+
+
+/* Make the logo have a rounded edge */
+img.top-image {
+   vertical-align: middle;
+}
+
+/* CSS Layout from W3Schools: https://www.w3schools.com/css/css_templates.asp */
+/* Style the top navigation bar */
+.topnav {
+   overflow: hidden;
+   background-color: #5acf31;
+ }
+ 
+ /* Style the topnav links */
+ .topnav a {
+   float: left;
+   display: block;
+   color: #f2f2f2;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+ }
+ 
+ /* Change color on hover */
+ .topnav a:hover {
+   background-color: #ddd;
+   color: black;
+ }
+ 
+ /* Style the content */
+ .content {
+   background-color: #daedbf;
+   padding: 10px;
+ }
+ 
+ /* Style the footer */
+ .footer {
+   background-color: #cccccc;
+   padding: 10px;
+ }
+
+/* .table{
+   border: 5px solid #55b2ff ;
+} */
+
+/* CSS */
+
+* {
+   box-sizing: border-box;
+ }
+ 
+ .row {
+   margin-left:-5px;
+   margin-right:-5px;
+ }
+   
+ .column {
+   float: left;
+   width: 50%;
+   padding: 5px;
+ }
+ 
+ /* Clearfix (clear floats) */
+ .row::after {
+   content: "";
+   clear: both;
+   display: table;
+ }
+ 
+ table {
+   border-collapse: collapse;
+   border-spacing: 0;
+   width: 100%;
+   border: 1px solid #ddd;
+ }
+ 
+ th, td {
+   text-align: left;
+   padding: 16px;
+ }
+ 
+ tr:nth-child(even) {
+   background-color: #f2f2f2;
+ }
+
+/* .persona-image {
+  width: 200px; 
+  height: 200px; 
+  margin: 0 10px; 
+} */
+.persona-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.persona-image {
+  width: 100px; /* Adjust the width as needed */
+  height: auto; /* Maintain aspect ratio */
+  margin-right: 10px;
+}
+
+.description {
+  flex-grow: 1;
+  text-align: left; /* Adjust the text alignment as needed */
+}
+.table-compact {
+  border-collapse: collapse;
+  width: auto;
+}
+
+.table-compact th,
+.table-compact td {
+  padding: 4px;
+  border: 1px solid #000;
+}
+
+.table-compact th {
+  font-weight: bold;
+  background-color: transparent;
+}
+
+.table-compact td {
+  text-align: left;
+  background-color: transparent;
+}
+
+.table-compact tr:nth-child(even) {
+  background-color: transparent;
+}
+
+
