@@ -1,0 +1,95 @@
+Welcome to MineCraft MazeRunner!
+--------------------------------
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- GENERATE MAZE -------------
+1) Read Maze from terminal
+2) Generate Random Maze
+3) Back
+
+Enter Menu item to continue: 
+Enter the basePoint of maze: 
+Enter the length and width of maze: 
+Maze generated successfully
+**Printing Maze**
+BasePoint: (47, 73, 83)
+Structure:
+xxxxxx
+x.xxxx
+x...xx
+x.x.xx
+x.x..x
+x.x..x
+x.x.xx
+xxx.xx
+xx..xx
+xx.xxx
+**End Printing Maze**
+
+Your maze has successfully been input, go to build maze to create this maze in Minecraft
+
+
+------------- GENERATE MAZE -------------
+1) Read Maze from terminal
+2) Generate Random Maze
+3) Back
+
+Enter Menu item to continue: 
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+Building maze now, please wait...
+Maze build complete.
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Back
+Enter Menu item to continue:
+
+Showing escape route...
+Step[1]: (48, 73, 84)
+Step[2]: (48, 73, 85)
+Step[3]: (49, 73, 85)
+Step[4]: (50, 73, 85)
+Step[5]: (50, 73, 86)
+Step[6]: (50, 73, 87)
+Step[7]: (51, 73, 87)
+Step[8]: (51, 73, 88)
+Step[9]: (50, 73, 88)
+Step[10]: (50, 73, 89)
+Step[11]: (50, 73, 90)
+Step[12]: (50, 73, 91)
+Step[13]: (49, 73, 91)
+Step[14]: (49, 73, 92)
+Escape route displayed in Minecraft and path coordinates printed to the terminal.
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Back
+Enter Menu item to continue:

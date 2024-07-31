@@ -1,0 +1,49 @@
+Welcome to MineCraft MazeRunner!
+--------------------------------
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+1
+
+------------- GENERATE MAZE -------------
+1) Read Maze from terminal
+2) Generate Random Maze
+3) Back
+
+Enter Menu item to continue: 
+1
+Inside -> Read Maze from terminal
+Enter the length and width of maze (1 - 256):
+4 4
+Sorry that wasn't correct please enter the length and width of maze again (1 - 256):
+1 1
+Enter the basePoint of maze (x, y, z):
+0 0 0
+Please enter the maze shape: 
+x
+x
+Your maze has successfully been input, go to build maze to create this maze in Minecraft
+
+------------- GENERATE MAZE -------------
+1) Read Maze from terminal
+2) Generate Random Maze
+3) Back
+
+Enter Menu item to continue: 
+3
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+5
